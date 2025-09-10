@@ -1,0 +1,4 @@
+streamlit
+ta
+scikit-learn
+matplotlib
